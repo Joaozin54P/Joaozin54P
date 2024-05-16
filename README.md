@@ -22,4 +22,4 @@
     <img src="https://skillicons.dev/icons?i=javascript,tailwind,java,mysql,laravel" align="center" /><br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=footer"/>
