@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=header"/>
 
 <h1 align="center"> Hello, I'm João Pedro</h1>
 
