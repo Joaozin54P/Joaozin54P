@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaozin54P&show_icons=true&count_private=true&hide_border=true&title_color=006666&icon_color=008584&text_color=008584" alt="Joao github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozin54P&layout=compact&hide_border=true&title_color=006666&text_color=008584" />
 
-  <h3 align="center">🌐P-TECH programmih student in Etec Zona Leste</h3>
+  <h3 align="center">🌐P-TECH programming student in Etec Zona Leste</h3>
 
    ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
