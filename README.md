@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=header"/>
 
-<h1 align="center"> Hello, I'm João Pedro</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006666&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Pedro+Machado;I'm+17+years+old;I'm+from+Brazil;I+currently+studying+systems+development;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaozin54P&show_icons=true&count_private=true&hide_border=true&title_color=006666&icon_color=008584&text_color=008584" alt="Joao github stats" /> 
