@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=header"/>
-
 <!-- GIF Anime -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4b7327b9-e677-48fc-9f74-b175c4dd3aba" width="500" alt="Demon Slayer">
