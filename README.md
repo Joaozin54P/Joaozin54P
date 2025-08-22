@@ -13,11 +13,10 @@
   <h3 align="center">🌐P-TECH programming student in FATEC Zona Leste</h3>
 
    ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp; 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
@@ -27,4 +26,4 @@
     <img src="https://skillicons.dev/icons?i=javascript,tailwind,java,mysql,laravel" align="center" /><br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05e2fd&height=120&section=footer"/>
