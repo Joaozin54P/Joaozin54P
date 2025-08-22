@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=header"/>
 
+<!-- GIF Anime -->
+<p align="center">
+  ![Tanjiro_git](https://github.com/user-attachments/assets/9c5bb10f-1f46-4ad0-b25d-c60e9f0c2b0b)
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006666&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Pedro+Machado;I'm+18+years+old;I'm+from+Brazil;I+currently+studying+Systems+Analysis+and+Development;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
