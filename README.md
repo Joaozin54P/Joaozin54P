@@ -2,7 +2,7 @@
 
 <!-- GIF Anime -->
 <p align="center">
-  <img src="![Tanjiro_git](https://github.com/user-attachments/assets/4b7327b9-e677-48fc-9f74-b175c4dd3aba)" width="500" alt="Demon Slayer">
+  <img src="https://github.com/user-attachments/assets/4b7327b9-e677-48fc-9f74-b175c4dd3aba" width="500" alt="Demon Slayer">
 </p>
 
 
