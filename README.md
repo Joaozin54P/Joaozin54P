@@ -121,6 +121,10 @@
   <a href="mailto:jdasilvamachado1@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
+
+  <a href="https://www.instagram.com/j.jo4n">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
   
   <a href="https://github.com/Joaozin54P">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
